@@ -38,10 +38,13 @@ Upon running the program, you will be presented with a menu with various options
 ## Example Output
 
 Here are some example outputs from CityTrek:
-
-### View Complete Route Map
-
-![View Complete Route Map](#)
+### 1. View all cities
+Check out a all 85 cities available in the CityTrek database.
+![View Complete Route Map](https://github.com/GaurishIIITNR/CityTrek/blob/main/Screenshot%20from%202023-09-28%2017-37-00.png)
+### 2. View route Map
+#### 2.1 Complete route map
+oute map of all cities and their connections
+![View Complete Route Map](https://github.com/GaurishIIITNR/CityTrek/blob/main/Screenshot%20from%202023-09-28%2017-38-25.png)
 
 ### Find Shortest Path by Distance
 
